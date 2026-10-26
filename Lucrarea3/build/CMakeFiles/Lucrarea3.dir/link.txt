@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Lucrarea3.dir/src/main.cpp.o CMakeFiles/Lucrarea3.dir/src/IntArray.cpp.o CMakeFiles/Lucrarea3.dir/src/PixelBuffer.cpp.o -o Lucrarea3
