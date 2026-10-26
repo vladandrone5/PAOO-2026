@@ -8,6 +8,5 @@ include_directories(include)
 
 add_executable(Lucrarea3 
     src/main.cpp 
-    src/IntArray.cpp
     src/PixelBuffer.cpp
 )
