@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/EffectiveCpp_PAOO.dir/src/main.cpp.o CMakeFiles/EffectiveCpp_PAOO.dir/src/Item4.cpp.o -o EffectiveCpp_PAOO
